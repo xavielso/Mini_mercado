@@ -3,12 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Thiago/Documents/NetBeansProjects/Mini_mercado/src/entity/Endereco.java</file>
-            <file>file:/C:/Users/Thiago/Documents/NetBeansProjects/Mini_mercado/src/entity/fornecedor.java</file>
-            <file>file:/C:/Users/Thiago/Documents/NetBeansProjects/Mini_mercado/src/entity/Estoque.java</file>
-            <file>file:/C:/Users/Thiago/Documents/NetBeansProjects/Mini_mercado/src/entity/Funcionario.java</file>
-            <file>file:/C:/Users/Thiago/Documents/NetBeansProjects/Mini_mercado/src/entity/Produto.java</file>
-            <file>file:/C:/Users/Thiago/Documents/NetBeansProjects/Mini_mercado/src/Main/Main.java</file>
+            <file>file:/C:/Users/PragaVirtual/Documents/GitHub/Mini_mercado/src/Main/Main.java</file>
+            <file>file:/C:/Users/PragaVirtual/Documents/GitHub/Mini_mercado/src/Dao/Connections.java</file>
         </group>
     </open-files>
 </project-private>
